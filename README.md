@@ -12,12 +12,16 @@ Background Update Notifcation
 user settings
 Sql lite Database
 
+Open Weather Map API Key is required.
+========
 
-**Open Weather Map API Key is required.
 
 Screenshot
 ========
-![Screenshot_1593383139](https://user-images.githubusercontent.com/17935370/86974839-ed4c8600-c16e-11ea-8394-2e580302bda5.png)
-![Screenshot_1593383146](https://user-images.githubusercontent.com/17935370/86974844-ef164980-c16e-11ea-8d73-656943be63cb.png)
-![Screenshot_1593383179](https://user-images.githubusercontent.com/17935370/86974853-f2a9d080-c16e-11ea-99f2-1c06f815d592.png)
-![Screenshot_1593382918](https://user-images.githubusercontent.com/17935370/86974886-01908300-c16f-11ea-97dc-bf7e0e046db1.png)
+![Group 7](https://user-images.githubusercontent.com/17935370/86975455-44068f80-c170-11ea-97fe-ec004d7a11d2.png)
+
+![Screenshot_1593383139](https://user-images.githubusercontent.com/17935370/86975406-2a654800-c170-11ea-86d1-dd0af23ceb04.png)
+![Screenshot_1593383146](https://user-images.githubusercontent.com/17935370/86975409-2cc7a200-c170-11ea-9a41-928e9cd0228e.png)
+![Screenshot_1593383448](https://user-images.githubusercontent.com/17935370/86975418-3224ec80-c170-11ea-8668-62ca7c1ecf9c.png)
+![Screenshot_1593382918](https://user-images.githubusercontent.com/17935370/86975430-36e9a080-c170-11ea-8872-e3b2a1fdfee1.png)
+
